@@ -1,0 +1,2 @@
+// You have a certain array of available coins, and you have a target value, write a function that returns the coins and number of each coin you want to use to reach the target value
+//You should use the least amount of coins.
